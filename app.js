@@ -243,7 +243,6 @@ document.querySelectorAll('.card').forEach(card => {
         this.style.boxShadow = '0 4px 12px rgba(0,0,0,0.15)';
         this.style.transition = 'all 0.2s ease';
     });
-
     card.addEventListener('mouseleave', function () {
         this.style.transform = 'translateY(0)';
         this.style.boxShadow = '0 1px 3px rgba(0,0,0,0.1)';
