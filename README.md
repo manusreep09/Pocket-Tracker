@@ -18,4 +18,4 @@
 
 ## Purpose
 
-### The purpose is to give users a consolidated financial overview: what they earn, what they spend, how the spending is distributed across categories, and how things have changed month-to-month. It also allows the user to record new income and expense entries manually.
+The purpose is to give users a consolidated financial overview: what they earn, what they spend, how the spending is distributed across categories, and how things have changed month-to-month. It also allows the user to record new income and expense entries manually.
